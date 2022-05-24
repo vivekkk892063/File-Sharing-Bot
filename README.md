@@ -27,7 +27,7 @@ Bot to store Files, etc and get sharable link! 🖤
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+
 
 ### Features
 - Fully customisable.
